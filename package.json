@@ -2,6 +2,7 @@
     "name": "tonysvspk",
     "displayName": "Tony's VSCode Pack",
     "description": "My personal VSCode extension pack",
+    "publisher": "tonytins",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.37.0"
