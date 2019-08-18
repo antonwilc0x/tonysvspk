@@ -1,0 +1,25 @@
+{
+    "name": "tonysvspk",
+    "displayName": "Tony's VSCode Pack",
+    "description": "My personal VSCode extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "editorconfig.editorconfig",
+        "codezombiech.gitignore",
+        "hasanali.gitignore-templates",
+        "aaron-bond.better-comments",
+        "voldemortensen.rainbow-tags",
+        "mikestead.dotenv",
+        "eamodio.gitlens",
+        "2gua.rainbow-brackets",
+        "slevesque.vscode-hexdump",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare"
+    ]
+}
