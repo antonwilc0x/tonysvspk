@@ -3,9 +3,10 @@
     "displayName": "Tony's VSCode Pack",
     "description": "My personal VSCode extension pack",
     "publisher": "tonytins",
+    "repository": { "url": "https://github.com/antonwilc0x/tonysvspk" },
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.37.0"
+        "vscode": "^1.33.0"
     },
     "categories": [
         "Extension Packs"
