@@ -22,6 +22,7 @@
         "2gua.rainbow-brackets",
         "slevesque.vscode-hexdump",
         "esbenp.prettier-vscode",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one"
     ]
 }
