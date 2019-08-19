@@ -15,4 +15,4 @@ My personal VSCode extension pack.
 - [Rainbow Tags](https://marketplace.visualstudio.com/items?itemName=voldemortensen.rainbow-tags)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Gitignore Templates](https://marketplace.visualstudio.com/items?itemName=hasanali.gitignore-templates)
-- [License Header Manager](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.license-header-manager)
+- [psioniq File Header](https://marketplace.visualstudio.com/items?itemName=psioniq.psi-header)
